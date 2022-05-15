@@ -1,1 +1,1 @@
-https://${Nikasvirid}.github.io/cssMemSlider/cssMemSlider/index.html
+https://Nikasvirid.github.io/cssMemSlider/cssMemSlider/index.html
